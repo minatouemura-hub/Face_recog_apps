@@ -27,9 +27,6 @@ Make sure you have the following dependencies installed before running the appli
 - Keras
 - Other necessary libraries (refer to the `requirements.txt` file)
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ### Contributions
 
