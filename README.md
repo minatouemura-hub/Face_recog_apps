@@ -22,9 +22,9 @@ To run the application, follow these steps:
 
 Make sure you have the following dependencies installed before running the application:
 
-- Python (version XYZ or higher)
+- Python (version 3.9)
 - Gradio
-- TensorFlow
+- Keras
 - Other necessary libraries (refer to the `requirements.txt` file)
 
 ### License
